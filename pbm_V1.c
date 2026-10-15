@@ -12,6 +12,7 @@ int main()
 /* en tete de l'image */
        printf("P1\n");
 /* pas de commentaire */
+       /* dimension de l'image */
        printf("800 600\n");
 /* génération des 480000 pixels */
        for (compteur=0;compteur<800*600; compteur++)
