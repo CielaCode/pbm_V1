@@ -1,0 +1,15 @@
+# Binaires / objets de compilation
+*.o
+*.a
+*.so
+*.out
+
+# Exécutables (adapte le nom à ton binaire final)
+pbm_V1
+l2pbm
+
+# Éditeurs
+*.swp
+*~
+.vscode/
+.idea/
