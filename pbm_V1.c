@@ -1,7 +1,7 @@
 /******************************************/
 /** projet : pbm_V1                      **/
 /** Image blanche de 800 x 600           **/
-/** V1.Bogt2026 Lt Caroline Dorian	 **/
+/** V1.Bogt2026 Lt Caroline Dorian       **/
 /**                       17/10/2026     **/
 /******************************************/
 #include<stdio.h>
