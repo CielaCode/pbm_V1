@@ -7,9 +7,10 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+
 int main()
 {
-int compteur;
+int compteur; /* variable locale au main */
 /* en tete de l'image */
    printf("P1\n");  /* nombre magique voir wiki */
    printf("# image blanche réalisée avec pbm_V1\n");  /* commentaire du fichier */
